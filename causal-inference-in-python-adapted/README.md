@@ -1,4 +1,4 @@
-# Causal Inference Learning
+# Causal Inference in Python (Book - Extensions of Examples)
 
 This repository contains my personal explorations and modifications of examples from 
 [causal-inference-in-python-code](https://github.com/matheusfacure/causal-inference-in-python-code/tree/main) by Matheus Facure, used under the MIT License.
